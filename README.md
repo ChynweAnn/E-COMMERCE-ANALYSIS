@@ -13,4 +13,4 @@ Also, examines the performance of delivered and returned orders, assessing the i
 1) Order Priority: Used to analyze the cost-to-speed trade-off.
 2) Shipping Cost & Mode: Key variables for logistics optimization.
 3) Customer Segment: Used for targeted demographic insights.
-4) Returned Orders:
+4) Returned Orders: Used to evaluate the impact of returned orders on the profitability.
