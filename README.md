@@ -15,4 +15,9 @@ Also, examines the performance of delivered and returned orders, assessing the i
 3) Customer Segment: Used for targeted demographic insights.
 4) Returned Orders: Used to evaluate the impact of returned orders on the profitability.
 
-## Key Insight
+## Key Analysis Highlight
+The data examination helped discover the effect of returned orders on the profitability of the business, basically.
+
+ 1) There were no duplicate values
+ 2) Missing Values were found and handled.
+ 3) 
