@@ -16,8 +16,8 @@ Also, examines the performance of delivered and returned orders, assessing the i
 4) Returned Orders: Used to evaluate the impact of returned orders on the profitability.
 
 ## Key Analysis Highlight
-The data examination helped discover the effect of returned orders on the profitability of the business, basically.
+The data examination helped identify the effect of returned orders on the business's profitability.
 
  1) There were no duplicate values
  2) Missing Values were found and handled.
- 3) 
+ 3) The examination shows High Dependency on Tech & Office Supplies
