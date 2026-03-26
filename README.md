@@ -61,11 +61,13 @@ The data examination helped identify the effect of returned orders on the busine
 * Calculated a custom Total Cost column by merging Shipping Cost and Unit Price.
 
 * Modeling: Created a Star Schema with a dedicated Date Table for time-intelligence analysis (Yearly/Monthly/Weekly trends).
-* I developed custom measures to track underlying business health beyond just "Sales."
-DAX:
-xtage_loss
+  
+* DAX :I developed custom measures to track underlying business health beyond just "Sales."
+
+  
+* xtage_loss
 xtage_loss = DIVIDE([Total_loss],[Sum Of Profit])
 
-Total_loss
+*Total_loss
 Total_loss = CALCULATE([Sum Of Profit],Sales_Transaction[Order Status]="Returned")
 
