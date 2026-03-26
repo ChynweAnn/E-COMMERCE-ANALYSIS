@@ -68,6 +68,6 @@ The data examination helped identify the effect of returned orders on the busine
 * xtage_loss
 xtage_loss = DIVIDE([Total_loss],[Sum Of Profit])
 
-*Total_loss
+* Total_loss
 Total_loss = CALCULATE([Sum Of Profit],Sales_Transaction[Order Status]="Returned")
 
