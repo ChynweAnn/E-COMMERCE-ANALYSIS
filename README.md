@@ -26,9 +26,13 @@ The data examination helped identify the effect of returned orders on the busine
 <img width="936" height="443" alt="image" src="https://github.com/user-attachments/assets/b0d86eef-3545-4d24-9667-3080b54f98f8" />
 
 
+
+
  Management Performance Disparity: Pat is significantly outperforming all other regional managers, with $0.85M in profit, while Chris has $0.00M.
  
  <img width="279" height="212" alt="image" src="https://github.com/user-attachments/assets/0911ae66-18fa-4359-9d5b-21c95137f3a5" />
+
+
 
 
 
