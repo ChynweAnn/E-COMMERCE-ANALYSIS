@@ -50,7 +50,7 @@ The data examination helped identify the effect of returned orders on the busine
 
 
 
-## ETL PROCESS 
+## WORKFLOW
 
 * Extraction: Connected to e-commerce flat files (CSV/Excel) containing 8,000+ transactions.
 
