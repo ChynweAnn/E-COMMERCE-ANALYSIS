@@ -22,3 +22,5 @@ The data examination helped identify the effect of returned orders on the busine
  2) Missing Values were found and handled.
  3) The examination shows High Dependency on Tech & Office Supplies
  4) Temporal Trends (Weekly/Monthly)-There is a massive spike in profit on Fridays ($0.29M) compared to the rest of the week, and January/October seem to be peak months.
+<img width="936" height="443" alt="image" src="https://github.com/user-attachments/assets/b0d86eef-3545-4d24-9667-3080b54f98f8" />
+
