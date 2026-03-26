@@ -28,7 +28,7 @@ The data examination helped identify the effect of returned orders on the busine
 
 
 
- Management Performance Disparity: Pat is significantly outperforming all other regional managers, with $0.85M in profit, while Chris has $0.00M.
+* Management Performance Disparity: Pat is significantly outperforming all other regional managers, with $0.85M in profit, while Chris has $0.00M.
  
  <img width="279" height="212" alt="image" src="https://github.com/user-attachments/assets/0911ae66-18fa-4359-9d5b-21c95137f3a5" />
 
@@ -37,7 +37,7 @@ The data examination helped identify the effect of returned orders on the busine
 
 
 
- Generational Wealth Gap in Sales: Gen X is the powerhouse
+ * Generational Wealth Gap in Sales: Gen X is the powerhouse
  
  <img width="280" height="215" alt="image" src="https://github.com/user-attachments/assets/01620dd1-f5d0-4c43-b635-a95afcda15ed" />
 
