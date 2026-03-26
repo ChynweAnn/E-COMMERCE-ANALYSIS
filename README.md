@@ -36,8 +36,36 @@ The data examination helped identify the effect of returned orders on the busine
 
 
 
+
  Generational Wealth Gap in Sales: Gen X is the powerhouse
  
  <img width="280" height="215" alt="image" src="https://github.com/user-attachments/assets/01620dd1-f5d0-4c43-b635-a95afcda15ed" />
 
+
+
+
+
+
+
+
+
+
+## ETL PROCESS 
+
+* Extraction: Connected to e-commerce flat files (CSV/Excel) containing 8,000+ transactions.
+
+* Transformation (Power Query): * Cleaned inconsistent naming in Product Categories.
+
+* Handled missing values in BirthDate to ensure accurate age generation bins.
+
+* Calculated a custom Total Cost column by merging Shipping Cost and Unit Price.
+
+* Modeling: Created a Star Schema with a dedicated Date Table for time-intelligence analysis (Yearly/Monthly/Weekly trends).
+* I developed custom measures to track underlying business health beyond just "Sales."
+DAX:
+xtage_loss
+xtage_loss = DIVIDE([Total_loss],[Sum Of Profit])
+
+Total_loss
+Total_loss = CALCULATE([Sum Of Profit],Sales_Transaction[Order Status]="Returned")
 
